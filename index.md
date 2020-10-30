@@ -1,5 +1,1 @@
----
-title: home
----
-
 # home :)
