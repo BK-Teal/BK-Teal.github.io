@@ -1,4 +1,7 @@
 <link rel="canonical" href="http://bk-teal.com/"/>
+<script>
+  alert(hi!);
+ </script>
 
 ## Posts
 
