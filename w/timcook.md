@@ -18,7 +18,7 @@ In 2020, Apple:
    
    > Previously, when removing posts at Apple’s request, Telegram replaced those posts with a notice that cited the exact rule limiting such content for iOS users. However, Apple reached out to us a while ago and said our app is not allowed to show users such notices because they were _“irrelevant”_.
    
- So much for human rights and equality for all.
+ So much for "human rights" and "equality for all".
  
  
  
