@@ -1,4 +1,5 @@
 <link rel="canonical" href="http://bk-teal.com/"/>
+
 ## Posts
 
 
