@@ -73,4 +73,4 @@ In 2019 Cloudflare terminated service for 8chan by saying [this](https://blog.cl
 
 
 ----
-2021-06-06
+2021-07-06
